@@ -19,7 +19,7 @@
 <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20"
   height="20" />
 
-- 📫 How to reach me **acatomas@gmail.com**
+### How to reach me **acatomas@gmail.com**
 
 <p align="center">
 <a href="https://linkedin.com/in/tominasweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tominasweb" height="20" width="20" /></a>
