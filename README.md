@@ -22,6 +22,6 @@
 ##### How to reach me **acatomas@gmail.com**
 
 <p align="center">
-<a href="https://linkedin.com/in/tominasweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tominasweb" height="20" width="20" /></a>
-<a href="https://instagram.com/to.mi.nas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="to.mi.nas" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/tominasweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tominasweb" height="60" width="60" /></a>
+<a href="https://instagram.com/to.mi.nas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="to.mi.nas" height="60" width="60" /></a>
 </p>
