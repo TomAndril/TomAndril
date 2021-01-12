@@ -3,7 +3,7 @@
 ## I'm a Developer, Teacher and a Traveler
 - 🔭 I’m currently working on [Parkbird](http://parkbird.dk)
 - 🌱 I’m currently learning GraphQL 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Overwatch, play guitar and swim.
 
 ### Connect with me:
