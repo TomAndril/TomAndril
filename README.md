@@ -1,8 +1,7 @@
 ### Hi there, I'm Tomas 👋
 
 ## I'm a Developer, Teacher and a Traveler
-- 🔭 I’m currently working at [Global Roadrunner](https://www.globalroadrunner.com)
-- 🌱 I’m currently learning GraphQL 🤣
+- 🔭 I’m currently working at [Boozt](https://www.boozt.com)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Overwatch, play guitar and swim.
 
