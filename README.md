@@ -1,7 +1,7 @@
 ### Hi there, I'm Tomas 👋
 
 ## I'm a Developer, Teacher and a Traveler
-- 🔭 I’m currently working at [Boozt](https://www.boozt.com)
+- 🔭 I’m currently working at [Knowit](https://www.knowit.eu/)
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Overwatch, play guitar and swim.
 
