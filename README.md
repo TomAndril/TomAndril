@@ -3,7 +3,7 @@
 ## I'm a Senior Frontend Developer
 - 🔭 I’m currently working at [Knowit](https://www.knowit.eu/)
 - 🥅 2024 Goal: Launch several SAAS Products
-- ⚡ Fun fact: I love to play Overwatch, play guitar and swim.
+- ⚡ Fun fact: I love to travel, learn languages and to make music.
 
 ### Connect with me:
 
